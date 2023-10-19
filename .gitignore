@@ -1,0 +1,25 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpeta generada por Flask para almacenar sesiones
+instance/
+
+# Archivos generados por entornos virtuales
+venv/
+env/
+
+# Carpeta generada por PyCharm (puede variar según el IDE)
+.idea/
+
+# Carpeta generada por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de registro generados
+*.log
+
+# Configuración local (¡ajusta según tus necesidades!)
+config_local.py
